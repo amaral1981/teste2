@@ -1,0 +1,406 @@
+body {
+    background: #dad3db;
+    display: flex;
+    justify-content: left;
+    align-items: above;
+    height: 75vh;
+    border: 1px;
+
+}
+
+.imagens {
+    position: relative;
+}
+
+.img-mestre {
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 150px;
+    padding: 20px;
+    nav-up: 1px;
+
+}
+.img-logomatriz{
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 500px;
+    padding: 20px;
+    nav-up: 1px;
+}
+
+.img-logomestre{
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 500px;
+    padding: 20px;
+    nav-up: 1px;
+}
+
+
+.img-logosamuray{
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 500px;
+    padding: 20px;
+    nav-up: 1px;
+}
+.img-logofarias{
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 700px;
+    padding: 20px;
+    nav-up: 1px;
+}
+
+.img-logoamo{
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 600px;
+    padding: 20px;
+    nav-up: 1px;
+}
+.img-helton {
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 550px;
+    padding: 20px;
+    nav-up: 1px;
+
+}
+.img-lima {
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 400px;
+    padding: 20px;
+    nav-up: 1px;
+
+}
+
+.img-campeao {
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 350px;
+    padding: 20px;
+    nav-up: 1px;
+
+}
+.img-clebjj {
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 150px;
+    padding: 20px;
+    nav-up: 1px;
+
+}
+.img-emerson {
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 150px;
+    padding: 20px;
+    nav-up: 1px;
+}
+.img-proveimar {
+    position: relative;
+    display: flex;
+    flex-direction: flex;
+    width: 300px;
+    padding: 20px;
+    nav-up: 1px;
+
+}
+.img-clebjjmestre{
+    position: calc(100%);
+    display: flex;
+    flex-direction: flex;
+    width: 2000px;
+    padding: 200px;
+    nav-up: 100px;
+}
+
+.container {
+    border: 2px solid #dc9d14;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 30px;
+    position: relative;
+}
+.container2 {
+    border: 2px solid #dc9d14;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 20px;
+    position: -ms-page;
+    border-radius: 10px;
+    background-color:  rgb(183, 206, 212);
+  
+    
+}
+.containerRT {
+    border: 1px solid #dc9d14;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 30px;
+    position: relative;
+}
+.containerlima{
+    border: 1px solid #dc9d14;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 30px;
+    position: relative;
+}
+.containerveimar{
+    border: 1px solid #dc9d14;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 30px;
+    position: relative;
+}
+.containerhelton{
+    border: 1px solid #dc9d14;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 30px;
+    position: relative;
+}
+.containersamuray{
+        border: 1px solid #dc9d14;
+        display: flex;
+        flex-direction: column;
+        width: 150px;
+        padding: 30px;
+        position: relative;
+}
+
+.img-fundador
+{
+    border: 1px solid #dc9d14;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 30px;
+    position: relative;
+}
+input {
+    color: rgb(56, 21, 252);
+    background-color: rgb(220, 221, 228);
+    height: 40px;
+    border: 1px solid #060706;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+button {
+    background: hsl(253, 89%, 38%);
+    margin-top: 20px;
+    border: 1px;
+    cursor: pointer;
+    color: rgb(122, 167, 50);
+    display: flex;
+    align-self: flex-end;
+    text-align: flex;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+
+button1 {
+    background: hsl(350, 83%, 43%);
+    margin-top: 20px;
+    border: 10;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(214, 223, 230);
+    display: flex;
+    align-self: start;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+button2 {
+    background: hsl(244, 94%, 43%);
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    display: flex;
+
+
+}
+
+button3 {
+    background: hsl(193, 97%, 15%);
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: rgb(192, 212, 11);
+    display: flex;
+
+
+}
+
+button4 {
+    background: hsl(145, 93%, 26%);
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    display: flex;
+
+
+}
+
+button5 {
+    background: hsl(202, 78%, 34%);
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    display: flex;
+
+
+}
+
+button6 {
+    background: hsl(320, 91%, 18%);
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    display: flex;
+
+
+
+
+}
+
+button7 {
+    background: hsl(350, 83%, 43%);
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(214, 223, 230);
+    display: flex;
+    align-self: start;
+    text-align: center;
+    font-weight: bold;
+}
+
+button8 {
+    background: hsl(239, 74%, 43%);
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(214, 223, 230);
+    display: flex;
+    align-self: start;
+    text-align: center;
+    font-weight: bold;
+}
+
+button9 {
+    background: hsl(239, 74%, 43%);
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(214, 223, 230);
+    display: flex;
+    align-self: start;
+    text-align: center;
+    font-weight: bold;
+}
+
+button10 {
+    background: hsl(4, 74%, 43%);
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(214, 223, 230);
+    display: flex;
+    align-self: start;
+    text-align: center;
+    font-weight: bold;
+}
+button11 {
+    background: hsl(4, 74%, 43%);
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(214, 223, 230);
+    display: flex;
+    align-self: start;
+    text-align: center;
+    font-weight: bold;
+}
+.acesso
+{
+    background: hsl(229, 93%, 30%);
+    color: #089920;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+
+.cadastrar {
+    color: #385138;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.facebook {
+    color: hsl(219, 92%, 50%);
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+.esqueceu {
+    color: hsl(0, 94%, 50%);
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+
+
+}
